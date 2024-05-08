@@ -1,0 +1,45 @@
+body{
+    background-color: #FF66FF
+;
+}
+
+nav {
+  background-color: #333; /* Warna latar belakang */
+  color: #fff; /* Warna teks */
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 10px 20px; /* Padding atas dan bawah 10px, padding kiri dan kanan 20px */
+  text-decoration: none; /* Menghapus garis bawah pada tautan */
+  color: #fff; /* Warna teks */
+}
+
+nav ul li a:hover {
+  background-color: #555; /* Warna latar belakang saat mouse diarahkan ke tautan */
+}
+
+h1{
+    text-align: center;
+}
+
+.judul{
+    background-color: aquamarine;
+}
+.isi{
+    background-color: #fff;
+}
+
+.tabel{
+    border-collapse: collapse;
+}

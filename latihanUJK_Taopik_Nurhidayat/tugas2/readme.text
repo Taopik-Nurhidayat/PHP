@@ -1,0 +1,8 @@
+Langkah-langkah pegerjaan
+1.buat form input
+dimana form input ini di buat dengan bahasa php di salipkan HTML
+untul css nya sendiri menggunakan css manual dengan methode card,
+lalu di tambahkan navigation untuk mempermudah user masuk ke page data mahasiswa
+2.sambungkan form input ke table output
+Tabel input ini sangat simpet, di kerjakan menggunakan bahasa PHP dengan di salipkan HTMl pada 
+dile PHP, tabel ini berfungsi untuk menampung data yang di kirim kan dari form input.

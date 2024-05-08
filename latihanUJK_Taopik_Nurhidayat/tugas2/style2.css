@@ -1,0 +1,75 @@
+body{
+    background-color: #FF66FF
+;
+}
+
+nav {
+  background-color: #333; 
+  color: #fff; 
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+nav ul li a {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none; 
+  color: #fff; 
+
+}
+
+nav ul li a:hover {
+  background-color: #555; 
+}
+
+.card{
+    box-sizing: border-box;
+    padding-top: 70px;
+    height: 350px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 300px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    max-width: 30%;
+    background-color: #b89f9f;
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,1.5);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+   font-size: 20px;
+}
+
+.form{
+      padding: 0.5rem 1.5rem;
+  border-radius: 999px;
+}
+
+.sum {
+  padding: 0.5rem 1.5rem;
+  border-radius: 999px;
+  text-align: right;
+}
+.sum :hover {
+  background-color: #661a66;
+}
+
+.tbl{
+    font-size: medium;
+    font-family: cursive;
+  
+}

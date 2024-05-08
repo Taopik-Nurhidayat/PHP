@@ -1,0 +1,20 @@
+    Langkah-langkah pengerjaan
+1. prtama kita buatkan dulu file yang akan di isi dengan code-code
+    disini saya membuat empat file, ada index.php,tabel.php,data.josn dan style.
+2. Setelah kita buatkan file nya kita isi file tersebut satu-persatu sesuai yang di perintahkan,
+    Untuk file index.php sendiri saya ini dengan form input yang berfungsi untuk menambahkan data ke josn,
+    tidak lupa saya membuatkan navigasibar untuk mempermudah saya ketika berpindah halaman.
+    Navigasi-bar juga saya terapkan pada file tabel.php, dimana tabel ini di alokasikan untuk menampilkan data dari file
+    data.json, yang tadi di tambahkan dari file index.php, melalui form input.
+3. Seletah index.php dan tabel.php selesai saya tambahkan sedikit style dengan css, yang saya kelola pada file styles.css.
+    File styles.css ini menampung data dari 2 file sekaligus(index.php dan tabel.php),
+    1.index.php
+        Dalam file index.php saya kasih style dengan metode card,
+        dan untuk Navigasi nya saya kasih button dan hover agar keliatan sedikit lebih menarik,
+        lalu saya memposisikan card/kolom form input berada di tengan/center.
+    2.tabel.php
+        Dalam file tabel.php saya kasih style Navigasi nya sama seperti file index.php.
+        untuk posisi tabel nya saya letakan di tengah/center juga, agar lebih enak di lihat..
+
+                        //SEKIAN DAN TERIMAKASIH//
+                        
